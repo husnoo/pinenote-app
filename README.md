@@ -1,3 +1,7 @@
+
+Really simple app to draw on the screen using QT6 on a pinenote: https://youtu.be/OcSW8_DXV2E
+
+
 ```
 [nawal@kish pinenote-app]$ ldd ~/build-pinenote-app-Desktop-Debug/pinenote-app 
         linux-vdso.so.1 (0x0000007f84f01000)
